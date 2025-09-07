@@ -562,7 +562,7 @@
         </div>
     </div>
 
-    <p style=" text-align: center; margin-bottom: 19px; font-size: 14px; ">Your payment data is secured with <a href="https://piprapay.com" target="blank" style="color:<?php echo $setting['response'][0]['global_text_color']?>;text-decoration: none;"><strong>PipraPay</strong></a> 256-bit encryption</p>
+    <p style=" text-align: center; margin-bottom: 19px; font-size: 14px; ">Your payment data is secured with <a href="https://ananidea.com" target="blank" style="color:<?php echo $setting['response'][0]['global_text_color']?>;text-decoration: none;"><strong>Ananidea</strong></a> 256-bit encryption</p>
     
     <?php
         if($invoice_details['response'][0]['i_status'] == "unpaid"){
