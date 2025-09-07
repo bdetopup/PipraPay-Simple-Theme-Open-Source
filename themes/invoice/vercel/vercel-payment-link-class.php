@@ -479,7 +479,7 @@
         <div class="payment-footer">
             <div class="secure-payment">
                 <i class="fas fa-lock"></i>
-                <span>Payments are secure and encrypted with <a href="https://piprapay.com" target="blank" style="color:<?php echo $setting['response'][0]['global_text_color']?>;text-decoration: none;"><strong>PipraPay</strong></a></span>
+                <span>Payments are secure and encrypted with <a href="https://ananidea.com" target="blank" style="color:<?php echo $setting['response'][0]['global_text_color']?>;text-decoration: none;"><strong>Ananidea</strong></a></span>
             </div>
         </div>
     </div>
